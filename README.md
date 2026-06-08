@@ -1,31 +1,42 @@
 # hey, i'm oussama
 
-student and developer, mostly focused on AI and machine learning.
+AI student at the University of Pavia and junior AI engineer at PA Digitale.
 
-i use this github to keep track of projects. some are serious, some are coursework, some are just experiments i wanted to try out.
+I'm still early in this. I build projects to learn, to practice, and sometimes just because something looks interesting. Some of what's here is university work, some is personal exploration, and some is connected to what I do at work.
 
-nothing too polished here. the goal is to understand things properly and get a little better with every project.
+I'm trying to get stronger at the fundamentals: machine learning, deep learning, data structures, software engineering. Not rushing it. Just being consistent.
 
 ---
 
-**what i actually work with**
+**core stack**
 
 python · machine learning · deep learning · data analysis · sql
 
-**tools i use when needed**
+**supporting tools**
 
 typescript · react · git
 
 ---
 
-**stuff i'm into**
+**areas i'm working in**
 
-- practical AI and ML projects
-- building tools that make complex concepts easier to understand
-- data pipelines and model evaluation
-- reading other people's code to learn how real projects are structured
-- occasionally wrapping things in a simple frontend so they're easier to demo
+- machine learning pipelines and model evaluation
+- computer vision and deep learning concepts
+- practical AI systems: classification, document processing, retrieval
+- building small tools that make technical concepts easier to understand
+- data analysis and feature engineering
+- occasionally a web frontend to make something easier to demo
 
 ---
 
-*still building. still learning.*
+**some projects worth looking at**
+
+- [cnn_simulation](https://github.com/osamaPY/cnn_simulation) — interactive visual tool for understanding how CNNs work
+- [Kidney-Dialysis-Prediction-ML-Pipeline](https://github.com/osamaPY/Kidney-Dialysis-Prediction-ML-Pipeline) — end-to-end ML pipeline for health data prediction
+- [airbnb-price-prediction-ml](https://github.com/osamaPY/airbnb-price-prediction-ml) — regression project with data cleaning, feature engineering, and model evaluation
+- [Hybridium-OS](https://github.com/osamaPY/Hybridium-OS) — larger project, still evolving
+- [qr-build-showcase](https://github.com/osamaPY/qr-build-showcase) — small frontend experiment
+
+---
+
+still building. still learning.
