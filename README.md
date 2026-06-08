@@ -1,16 +1,27 @@
-## Hi there 👋
+# hey, i'm oussama
 
-<!--
-**osamaPY/osamaPY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+student and developer, learning by building things.
 
-Here are some ideas to get you started:
+i use this github mostly to keep track of projects — some are serious, some are for uni, some are just experiments i wanted to try.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+nothing too polished here. the goal is to build things that actually teach me something and slowly get better over time.
+
+---
+
+**what i usually work with**
+
+python · typescript · react · machine learning · sql · git
+
+---
+
+**stuff i'm into**
+
+- practical AI and ML projects
+- tools that make hard concepts easier to understand
+- data analysis and pipelines
+- simple web apps that actually do something
+- learning how real software is structured
+
+---
+
+*still building. still learning.*
