@@ -6,6 +6,8 @@ I'm still early in this. I build projects to learn, to practice, and sometimes j
 
 I'm trying to get stronger at the fundamentals: machine learning, deep learning, data structures, software engineering. Not rushing it. Just being consistent.
 
+outside of code: i run. currently training towards an Ironman. same mindset applies.
+
 ---
 
 **core stack**
@@ -39,4 +41,4 @@ typescript · react · git
 
 ---
 
-still building. still learning.
+still building. still learning. still running.
