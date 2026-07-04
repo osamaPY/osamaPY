@@ -15,7 +15,6 @@ Most of what's here is applied work: real datasets, real constraints, real decis
 | [airbnb-price-prediction](https://github.com/osamaPY/airbnb-price-prediction-ml) | Regression project on Airbnb listings: outlier handling, feature engineering, pipeline comparison across XGBoost, LightGBM, Gradient Boosting | Python, XGBoost, LightGBM |
 | [fraud-detection](https://github.com/osamaPY/credit-card-fraud-detection) | Credit card fraud classifier dealing with severe class imbalance. Focused on precision/recall tradeoffs and model calibration | Python, scikit-learn |
 | [flight-agent](https://github.com/osamaPY/flightAgent) | Agentic AI system for flight search and booking assistance. Tool-calling architecture with structured outputs | Python, LLM APIs |
-| [ai-career-companion](https://github.com/osamaPY/ai-career-companion) | AI assistant for job search: resume parsing, JD matching, interview prep suggestions | TypeScript, Next.js |
 
 ---
 
