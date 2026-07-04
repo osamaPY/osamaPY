@@ -37,4 +37,4 @@ Most of what's here is applied work: real datasets, real constraints, real decis
 
 ---
 
-oussama.elmir01@univesitadipavia.it · [LinkedIn](https://www.linkedin.com/in/oussamaelmir143/) · University of Pavia
+oussama.elmir01@universitadipavia.it · [LinkedIn](https://www.linkedin.com/in/oussamaelmir143/) · University of Pavia
