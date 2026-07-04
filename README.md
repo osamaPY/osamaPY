@@ -1,44 +1,40 @@
-# hey, i'm oussama
+## Oussama — Junior AI Engineer
 
-AI student at the University of Pavia and junior AI engineer at PA Digitale.
+Based in Pavia. I build ML pipelines, AI agents, and the occasional interactive tool to make complex concepts click. Currently working at PA Digitale while finishing my degree at the University of Pavia.
 
-I'm still early in this. I build projects to learn, to practice, and sometimes just because something looks interesting. Some of what's here is university work, some is personal exploration, and some is connected to what I do at work.
-
-I'm trying to get stronger at the fundamentals: machine learning, deep learning, data structures, software engineering. Not rushing it. Just being consistent.
-
-outside of code: i run. currently training towards an Ironman. same mindset applies.
+Most of what's here is applied work — real datasets, real constraints, real decisions. I care about the fundamentals: why a model fails, what the data is actually saying, and how to make something that runs in production, not just a notebook.
 
 ---
 
-**core stack**
+### projects
 
-python · machine learning · deep learning · data analysis · sql
-
-**supporting tools**
-
-typescript · react · git
-
----
-
-**areas i'm working in**
-
-- machine learning pipelines and model evaluation
-- computer vision and deep learning concepts
-- practical AI systems: classification, document processing, retrieval
-- building small tools that make technical concepts easier to understand
-- data analysis and feature engineering
-- occasionally a web frontend to make something easier to demo
+| repo | what it is | stack |
+|------|-----------|-------|
+| [cnn-simulation](https://github.com/osamaPY/cnn_simulation) | Interactive visual tool showing how CNNs process images — layers, filters, feature maps | TypeScript, React, Vercel |
+| [kidney-dialysis-ml](https://github.com/osamaPY/Kidney-Dialysis-Prediction-ML-Pipeline) | End-to-end ML pipeline for predicting dialysis need from lab data. Uses synthetic data (real data is confidential). Includes PCA, feature importance, cross-validation | Python, scikit-learn, pandas |
+| [airbnb-price-prediction](https://github.com/osamaPY/airbnb-price-prediction-ml) | Regression project on Airbnb listings: outlier handling, feature engineering, pipeline comparison across XGBoost, LightGBM, Gradient Boosting | Python, XGBoost, LightGBM |
+| [fraud-detection](https://github.com/osamaPY/credit-card-fraud-detection) | Credit card fraud classifier dealing with severe class imbalance. Focused on precision/recall tradeoffs and model calibration | Python, scikit-learn |
+| [flight-agent](https://github.com/osamaPY/flightAgent) | Agentic AI system for flight search and booking assistance. Tool-calling architecture with structured outputs | Python, LLM APIs |
+| [ai-career-companion](https://github.com/osamaPY/ai-career-companion) | AI assistant for job search: resume parsing, JD matching, interview prep suggestions | TypeScript, Next.js |
 
 ---
 
-**some projects worth looking at**
+### stack
 
-- [cnn_simulation](https://github.com/osamaPY/cnn_simulation) — interactive visual tool for understanding how CNNs work
-- [Kidney-Dialysis-Prediction-ML-Pipeline](https://github.com/osamaPY/Kidney-Dialysis-Prediction-ML-Pipeline) — end-to-end ML pipeline for health data prediction
-- [airbnb-price-prediction-ml](https://github.com/osamaPY/airbnb-price-prediction-ml) — regression project with data cleaning, feature engineering, and model evaluation
-- [Hybridium-OS](https://github.com/osamaPY/Hybridium-OS) — larger project, still evolving
-- [qr-build-showcase](https://github.com/osamaPY/qr-build-showcase) — small frontend experiment
+**ML / AI** — Python, scikit-learn, XGBoost, LightGBM, PyTorch, LLM APIs (Gemini, DeepSeek), prompt engineering  
+**Data** — pandas, NumPy, SQL, Jupyter  
+**Dev** — TypeScript, React, Next.js, Git  
+**Tools** — N8N, Cursor, Vercel
 
 ---
 
-still building. still learning. still running.
+### what I'm focused on right now
+
+- Agentic AI systems and multi-step reasoning pipelines
+- ML model evaluation and production-readiness (not just accuracy)
+- Making technical concepts visually understandable (see cnn-simulation)
+- Keeping commit history clean and READMEs honest
+
+---
+
+oussama.bel@outlook.it · [LinkedIn](https://linkedin.com/in/oussama) · University of Pavia
