@@ -8,9 +8,9 @@ Most of my work is practical: notebooks that explain the data, small products th
 
 | project | why it matters | stack |
 | --- | --- | --- |
-| [cnn_simulation](https://github.com/osamaPY/cnn_simulation) | Interactive CNN lab that shows how image pixels become feature maps, activations, and predictions in the browser. | React, TypeScript, TensorFlow.js |
-| [Kidney-Dialysis-Prediction-ML-Pipeline](https://github.com/osamaPY/Kidney-Dialysis-Prediction-ML-Pipeline) | Privacy-aware ML pipeline for dialysis prediction using synthetic public data to mirror a confidential hospital dataset. | Python, pandas, scikit-learn |
-| [flightAgent](https://github.com/osamaPY/flightAgent) | Telegram bot that compares realistic flight meetup options for groups, including bags, transfers, and LLM recommendations. | Python, Telegram, SQLite, LLM APIs |
+| [cnn-simulation-lab](https://github.com/osamaPY/cnn-simulation-lab) | Interactive CNN lab that shows how image pixels become feature maps, activations, and predictions in the browser. | React, TypeScript, TensorFlow.js |
+| [kidney-dialysis-ml-pipeline](https://github.com/osamaPY/kidney-dialysis-ml-pipeline) | Privacy-aware ML pipeline for dialysis prediction using synthetic public data to mirror a confidential hospital dataset. | Python, pandas, scikit-learn |
+| [flight-meetup-agent](https://github.com/osamaPY/flight-meetup-agent) | Telegram bot that compares realistic flight meetup options for groups, including bags, transfers, and LLM recommendations. | Python, Telegram, SQLite, LLM APIs |
 | [airbnb-price-prediction-ml](https://github.com/osamaPY/airbnb-price-prediction-ml) | Regression project focused on feature engineering, model comparison, and explaining what drives listing prices. | Python, scikit-learn, XGBoost, LightGBM |
 | [credit-card-fraud-detection](https://github.com/osamaPY/credit-card-fraud-detection) | Fraud classifier built around imbalance, threshold tuning, and why accuracy is the wrong metric. | Python, pandas, scikit-learn |
 | [Hybridium-OS](https://github.com/osamaPY/Hybridium-OS) | Private product-style web app for hybrid athletes, with dashboards, integrations, and AI-assisted training analysis. | React, TypeScript, Supabase, Gemini |
