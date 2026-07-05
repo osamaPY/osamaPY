@@ -39,4 +39,4 @@ I am strongest when a project needs both technical work and clear explanation:
 - interactive ML explanations
 - production habits: tests, clean repo structure, readable docs
 
-Contact: oussama.elmir01@univesitadipavia.it Â· [LinkedIn](https://www.linkedin.com/in/oussamaelmir143/) Â· University of Pavia
+Contact: oussama.elmir01@univesitadipavia.it | [LinkedIn](https://www.linkedin.com/in/oussamaelmir143/) | University of Pavia
