@@ -1,8 +1,8 @@
 ## Oussama El Mir
 
-Junior AI Engineer based in Pavia. I build ML pipelines, applied agents, and interactive tools that make technical ideas easier to understand.
+Junior AI Engineer based in Pavia, focused on ML pipelines, applied agents, and interactive tools that make technical ideas easier to understand.
 
-Most of my work is practical: notebooks that explain the data, small products that run, and READMEs that say what actually works. I am especially interested in model evaluation, agent workflows, and AI tools that are useful outside a demo.
+Most of my work is practical: notebooks that explain the data, small products that run, and repos that show the decisions behind the result. I am especially interested in model evaluation, agent workflows, and AI tools that are useful outside a demo.
 
 ### Projects to start with
 
@@ -39,4 +39,4 @@ I am strongest when a project needs both technical work and clear explanation:
 - interactive ML explanations
 - production habits: tests, clean repo structure, readable docs
 
-Contact: oussama.elmir01@universitadipavia.it Â· [LinkedIn](https://www.linkedin.com/in/oussamaelmir143/) Â· University of Pavia
+Contact: oussama.elmir01@univesitadipavia.it Â· [LinkedIn](https://www.linkedin.com/in/oussamaelmir143/) Â· University of Pavia
