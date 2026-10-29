@@ -1,18 +1,43 @@
-# Hi, I'm Oussama
+## Oussama El Mir
 
-I'm an AI student at the University of Pavia. I learn best by building things, whether that's a model I can evaluate properly, a bot that solves a small real problem, or a visual tool that makes a difficult idea click. I use this profile to share what I've tried, what worked, and what I'd improve next.
+Junior AI Engineer based in Pavia, focused on ML pipelines, applied agents, and interactive tools that make technical ideas easier to understand.
 
-## Projects I've built
+Most of my work is practical: notebooks that explain the data, small products that run, and repos that show the decisions behind the result. I am especially interested in model evaluation, agent workflows, and AI tools that are useful outside a demo.
 
-- **[CNN Simulation Lab](https://github.com/osamaPY/cnn-simulation-lab)** — I built this to see what a convolutional network is actually doing, from pixels and filters to feature maps and predictions. React, TypeScript and TensorFlow.js.
-- **[Kidney Dialysis ML Pipeline](https://github.com/osamaPY/kidney-dialysis-ml-pipeline)** — a prediction pipeline using synthetic public data to explore a healthcare problem without publishing confidential hospital data. Python, pandas and scikit-learn.
-- **[Flight Meetup Agent](https://github.com/osamaPY/flight-meetup-agent)** — a Telegram bot that compares flight options for people trying to meet in the same place, including baggage and transfers. Python, SQLite and LLM APIs.
-- **[Airbnb Price Prediction](https://github.com/osamaPY/airbnb-price-prediction-ml)** — my work on feature engineering, comparing regression models and understanding which features drive a price estimate. Python and scikit-learn.
-- **[Credit Card Fraud Detection](https://github.com/osamaPY/credit-card-fraud-detection)** — an exercise in imbalanced classification, choosing thresholds and looking beyond accuracy. Python and scikit-learn.
-- **[Hybridium-OS](https://github.com/osamaPY/Hybridium-OS)** — a product-style app for hybrid athletes, with training dashboards and integrations. React, TypeScript and Supabase.
+### Projects to start with
 
-## What I'm learning
+| project | why it matters | stack |
+| --- | --- | --- |
+| [cnn-simulation-lab](https://github.com/osamaPY/cnn-simulation-lab) | Interactive CNN lab that shows how image pixels become feature maps, activations, and predictions in the browser. | React, TypeScript, TensorFlow.js |
+| [kidney-dialysis-ml-pipeline](https://github.com/osamaPY/kidney-dialysis-ml-pipeline) | Privacy-aware ML pipeline for dialysis prediction using synthetic public data to mirror a confidential hospital dataset. | Python, pandas, scikit-learn |
+| [flight-meetup-agent](https://github.com/osamaPY/flight-meetup-agent) | Telegram bot that compares realistic flight meetup options for groups, including bags, transfers, and LLM recommendations. | Python, Telegram, SQLite, LLM APIs |
+| [airbnb-price-prediction-ml](https://github.com/osamaPY/airbnb-price-prediction-ml) | Regression project focused on feature engineering, model comparison, and explaining what drives listing prices. | Python, scikit-learn, XGBoost, LightGBM |
+| [credit-card-fraud-detection](https://github.com/osamaPY/credit-card-fraud-detection) | Fraud classifier built around imbalance, threshold tuning, and why accuracy is the wrong metric. | Python, pandas, scikit-learn |
+| [Hybridium-OS](https://github.com/osamaPY/Hybridium-OS) | Private product-style web app for hybrid athletes, with dashboards, integrations, and AI-assisted training analysis. | React, TypeScript, Supabase, Gemini |
+| [Reasonloom](https://github.com/osamaPY/learnharness-fork) | My fork of LearnHarness, adding subjects, a source library, source-linked lessons and practice, and scheduled review. Original teaching engine by Amos Blomqvist. | TypeScript, Next.js, Electron |
 
-Right now I'm interested in evaluating ML models honestly, building reliable AI agents, and turning technical ideas into tools someone else can use. I work mostly with Python and TypeScript; for ML I use pandas, scikit-learn and PyTorch, and for apps I use React and Next.js. I'm still learning, and I try to make that visible in the projects rather than pretend they're finished products.
+### What I can show
 
-[LinkedIn](https://www.linkedin.com/in/oussamaelmir143/) · [Email](mailto:oussama.elmir01@univesitadipavia.it)
+I am strongest when a project needs both technical work and clear explanation:
+
+- building ML pipelines from messy data to evaluation
+- comparing models without pretending one metric tells the full story
+- connecting APIs, bots, and LLMs into useful workflows
+- making AI concepts visual enough that another person can understand them
+- writing documentation that is honest about limits and tradeoffs
+
+### Stack
+
+**ML and AI:** Python, pandas, NumPy, scikit-learn, XGBoost, LightGBM, PyTorch, TensorFlow.js, LLM APIs  
+**Apps and agents:** Telegram bots, FastAPI, REST APIs, SQLite, tool-calling workflows  
+**Frontend:** TypeScript, React, Next.js, Tailwind CSS, Vite  
+**Tools:** Git, GitHub Actions, Vercel, Supabase, Jupyter, Cursor, n8n
+
+### Current focus
+
+- agentic AI systems that make reliable tool calls
+- evaluation beyond accuracy, especially for imbalanced datasets
+- interactive ML explanations
+- production habits: tests, clean repo structure, readable docs
+
+Contact: oussama.elmir01@univesitadipavia.it | [LinkedIn](https://www.linkedin.com/in/oussamaelmir143/) | University of Pavia
