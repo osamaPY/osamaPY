@@ -1,42 +1,26 @@
-## Oussama El Mir
+# Hi, I'm Oussama
 
-Junior AI Engineer based in Pavia, focused on ML pipelines, applied agents, and interactive tools that make technical ideas easier to understand.
+I'm an AI student based in Pavia. I like building things that make complicated ideas easier to understand: a visual explanation, a small working app, or an experiment where the results are clear enough to question. Lately I've been spending more time on the space between ML experiments and actual software people can use.
 
-Most of my work is practical: notebooks that explain the data, small products that run, and repos that show the decisions behind the result. I am especially interested in model evaluation, agent workflows, and AI tools that are useful outside a demo.
+## What I'm working on
 
-### Projects to start with
+### [Reasonloom — learn from your own notes](https://github.com/osamaPY/learnharness-fork)
 
-| project | why it matters | stack |
-| --- | --- | --- |
-| [cnn-simulation-lab](https://github.com/osamaPY/cnn-simulation-lab) | Interactive CNN lab that shows how image pixels become feature maps, activations, and predictions in the browser. | React, TypeScript, TensorFlow.js |
-| [kidney-dialysis-ml-pipeline](https://github.com/osamaPY/kidney-dialysis-ml-pipeline) | Privacy-aware ML pipeline for dialysis prediction using synthetic public data to mirror a confidential hospital dataset. | Python, pandas, scikit-learn |
-| [flight-meetup-agent](https://github.com/osamaPY/flight-meetup-agent) | Telegram bot that compares realistic flight meetup options for groups, including bags, transfers, and LLM recommendations. | Python, Telegram, SQLite, LLM APIs |
-| [airbnb-price-prediction-ml](https://github.com/osamaPY/airbnb-price-prediction-ml) | Regression project focused on feature engineering, model comparison, and explaining what drives listing prices. | Python, scikit-learn, XGBoost, LightGBM |
-| [credit-card-fraud-detection](https://github.com/osamaPY/credit-card-fraud-detection) | Fraud classifier built around imbalance, threshold tuning, and why accuracy is the wrong metric. | Python, pandas, scikit-learn |
-| [Hybridium-OS](https://github.com/osamaPY/Hybridium-OS) | Private product-style web app for hybrid athletes, with dashboards, integrations, and AI-assisted training analysis. | React, TypeScript, Supabase, Gemini |
+I wanted one place for the subjects I'm studying, the notes I collect, the questions I practise, and the things I need to revisit. Reasonloom is my fork of [LearnHarness](https://github.com/amosblomqvist/learnharness). I added subject organisation, a local source library, source-grounded lessons and practice with linked passages, scheduled review, and a new visual identity. The teaching engine, knowledge graph, desktop foundation and model integrations are the original author's work. The fork keeps the AGPL-3.0 licence and attribution.
 
-### What I can show
+![Reasonloom source-grounded session (scripted example, not live model output)](https://raw.githubusercontent.com/osamaPY/learnharness-fork/main/docs/assets/reasonloom/grounded-session.png)
 
-I am strongest when a project needs both technical work and clear explanation:
+It's still a project you run from source, not a finished release. I haven't independently tested a full session with a live model yet, so I don't want to oversell the grounding or citations. The [README](https://github.com/osamaPY/learnharness-fork#readme) shows how to try it and what still needs work.
 
-- building ML pipelines from messy data to evaluation
-- comparing models without pretending one metric tells the full story
-- connecting APIs, bots, and LLMs into useful workflows
-- making AI concepts visual enough that another person can understand them
-- writing documentation that is honest about limits and tradeoffs
+## Other projects
 
-### Stack
+- [CNN Simulation Lab](https://github.com/osamaPY/cnn-simulation-lab) — an interactive way to see how pixels become feature maps, activations and predictions.
+- [Kidney Dialysis ML Pipeline](https://github.com/osamaPY/kidney-dialysis-ml-pipeline) — a privacy-aware prediction pipeline using synthetic public data in place of a confidential hospital dataset.
+- [Flight Meetup Agent](https://github.com/osamaPY/flight-meetup-agent) — a Telegram bot for comparing group flight options, including transfers and bags.
+- [Airbnb Price Prediction](https://github.com/osamaPY/airbnb-price-prediction-ml) — regression and feature engineering with a focus on what drives the predictions.
+- [Credit Card Fraud Detection](https://github.com/osamaPY/credit-card-fraud-detection) — exploring class imbalance, thresholds and why accuracy alone can mislead.
+- [Hybridium-OS](https://github.com/osamaPY/Hybridium-OS) — a private app for hybrid athletes, with training dashboards and integrations.
 
-**ML and AI:** Python, pandas, NumPy, scikit-learn, XGBoost, LightGBM, PyTorch, TensorFlow.js, LLM APIs  
-**Apps and agents:** Telegram bots, FastAPI, REST APIs, SQLite, tool-calling workflows  
-**Frontend:** TypeScript, React, Next.js, Tailwind CSS, Vite  
-**Tools:** Git, GitHub Actions, Vercel, Supabase, Jupyter, Cursor, n8n
+I work mostly with Python, TypeScript, React, Next.js and scikit-learn. I'm particularly interested in model evaluation, AI agents and tools that help someone learn rather than just give them an answer.
 
-### Current focus
-
-- agentic AI systems that make reliable tool calls
-- evaluation beyond accuracy, especially for imbalanced datasets
-- interactive ML explanations
-- production habits: tests, clean repo structure, readable docs
-
-Contact: oussama.elmir01@univesitadipavia.it | [LinkedIn](https://www.linkedin.com/in/oussamaelmir143/) | University of Pavia
+[LinkedIn](https://www.linkedin.com/in/oussamaelmir143/) · [Email](mailto:oussama.elmir01@univesitadipavia.it)
